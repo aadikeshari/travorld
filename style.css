@@ -381,3 +381,8 @@ html::-webkit-scrollbar-thumb{
         position:fixed;
     }
 }
+@media(max-width:500px){
+    #home{
+        height: 75vh;
+    }
+}
